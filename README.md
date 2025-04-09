@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://youallone.tistory.com"><img src="https://img.shields.io/badge/youallone-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/hj______yang"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:dolphinstar021008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:dolphinstar021008@gmail.com"/></a>
+<a href="https://solved.ac/sally55511"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sally55511&theme=dark"/></a>
